@@ -1,4 +1,4 @@
-name: PHP Linting
+name: Laravel Pint
 on: pull_request
 jobs:
   phplint:
